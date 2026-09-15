@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://odontocotia.com.br/sitemap.xml
+
+# LLM Crawler context specification
+# See https://llmstxt.org/
+llms-txt: https://odontocotia.com.br/llms.txt

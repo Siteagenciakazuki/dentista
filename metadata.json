@@ -1,0 +1,6 @@
+{
+  "name": "OdontoCotia - Dentista no Jardim Leonor em Cotia",
+  "description": "Clínica odontológica completa na Rua Welcome, 265 - Jardim Leonor, Cotia SP. Implantes, alinhadores, clareamento e agendamento via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
